@@ -1,0 +1,14 @@
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\bin\Debug\net10.0\Looping.exe
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\bin\Debug\net10.0\Looping.deps.json
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\bin\Debug\net10.0\Looping.runtimeconfig.json
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\bin\Debug\net10.0\Looping.dll
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\bin\Debug\net10.0\Looping.pdb
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\obj\Debug\net10.0\Looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\obj\Debug\net10.0\Looping.AssemblyInfoInputs.cache
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\obj\Debug\net10.0\Looping.AssemblyInfo.cs
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\obj\Debug\net10.0\Looping.csproj.CoreCompileInputs.cache
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\obj\Debug\net10.0\Looping.dll
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\obj\Debug\net10.0\refint\Looping.dll
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\obj\Debug\net10.0\Looping.pdb
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\obj\Debug\net10.0\Looping.genruntimeconfig.cache
+C:\Users\Az\Documents\Mapel\Programming\enemyWave\obj\Debug\net10.0\ref\Looping.dll
